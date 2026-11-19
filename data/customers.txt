@@ -1,0 +1,2 @@
+C1001|Rahul Sharma|9876543210|rahul@email.com|pass123|DL1420110012345
+C1002|Priya Singh|9876543211|priya@email.com|pass456|DL0420180098765

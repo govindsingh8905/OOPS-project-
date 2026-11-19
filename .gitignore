@@ -1,0 +1,31 @@
+# Build Artifacts
+build/
+*.o
+*.obj
+rental_system
+*.exe
+*.out
+
+# macOS System Files
+.DS_Store
+._*
+
+# Temporary & Preview Files
+page_*_preview.png
+extracted_img_*.png
+test_script.py
+generate_synopsis.py
+build_pdf.py
+
+# Old practice exercises
+poly1
+poly1.cpp
+polymorphsim
+polymorphsim.cpp
+tempCodeRunnerFile.cpp
+POINTER/
+abstraction/
+classandobject/
+passbyvalue/
+referencevaraible/
+typecasting/

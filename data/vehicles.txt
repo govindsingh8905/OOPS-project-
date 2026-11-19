@@ -1,0 +1,11 @@
+V101|Tata|Nexon|1500|1|Car|5|Petrol|1
+V102|Honda|City|2000|1|Car|5|Petrol|1
+V103|Hyundai|Creta|2500|1|Car|5|Diesel|1
+V104|Maruti|Swift|1200|1|Car|5|Petrol|1
+V105|Toyota|Fortuner|4000|1|Car|7|Diesel|1
+V106|Royal Enfield|Classic 350|800|1|Bike|350|Cruiser
+V107|KTM|Duke 200|600|1|Bike|200|Sport
+V108|Honda|Activa 6G|350|1|Bike|110|Scooter
+V109|Yamaha|R15 V4|750|1|Bike|155|Sport
+V110|Bajaj|Pulsar NS200|500|0|Bike|200|Standard
+V111|tata|nexon|1000|1|Car|3|Petrol|1
